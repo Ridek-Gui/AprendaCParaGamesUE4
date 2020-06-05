@@ -18,9 +18,11 @@ int main()
 
 	//Coloca na tela cifrões
 	std::cout << "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" << std::endl;
-	//Coloca na tela uma tabulação com \t e depois o texto Valor de NumComputadores = e depois coloca o valor da variável NumComputadores na tela e dá uma quebra de linha com std::endl
+	//Coloca na tela uma tabulação com \t e depois o texto Valor de NumComputadores = e 
+	//depois coloca o valor da variável NumComputadores na tela e dá uma quebra de linha com std::endl
 	std::cout << "\tValor de NumComputadores = " << NumComputadores << std::endl;
-	//Coloca na tela uma tabulação com \t e depois o texto Valor de SerialComputadores = e depois coloca o valor da variável SerialComputadores na tela e dá uma quebra de linha com std::endl
+	//Coloca na tela uma tabulação com \t e depois o texto Valor de SerialComputadores = e 
+	//depois coloca o valor da variável SerialComputadores na tela e dá uma quebra de linha com std::endl
 	std::cout << "\tValor de SerialComputadores = " << SerialComputadores << std::endl;
 	//Coloca na tela cifrões
 	std::cout << "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" << std::endl;
